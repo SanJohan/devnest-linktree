@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Build outputs (si compilas CSS, JS, etc.)
+dist/
+build/
+
+# Temporary files
+*.log
+*.tmp
